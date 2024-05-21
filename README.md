@@ -1,4 +1,10 @@
-## Hi!
+## Hi! 💬
+
+⚡retro styled 2d game development
+⚡pixelart
+⚡chipmusic
+⚡modmusic
+⚡tilemaps
 
 <!--
 **axg74/axg74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
