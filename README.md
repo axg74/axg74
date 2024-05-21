@@ -1,6 +1,5 @@
-## Hi! 💬
-
 ⚡retro styled 2d game development
+⚡BlitzMAX programming
 ⚡pixelart
 ⚡chipmusic
 ⚡modmusic
