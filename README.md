@@ -1,6 +1,6 @@
 ⚡Amiga 68k assembly coding
 ⚡retro styled coding with BlitzMAX on Windows
-⚡pixelart
+⚡pixel gfx
 ⚡chipmusic
 ⚡modmusic
 
