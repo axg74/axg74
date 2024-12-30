@@ -1,8 +1,9 @@
-⚡Amiga 68k assembly coding
 ⚡retro styled coding with BlitzMAX on Windows
+⚡Amiga MC68000 assembly coding
+⚡Amiga direct hardware programming
 ⚡pixel gfx
-⚡chipmusic
-⚡modmusic
+⚡chip-music
+⚡mod-music
 
 <!--
 **axg74/axg74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
