@@ -1,6 +1,5 @@
 ⚡retro styled coding with BlitzMAX on Windows
 ⚡Amiga MC68000 assembly coding
-⚡Amiga direct hardware programming
 ⚡pixel gfx
 ⚡chip-music
 ⚡mod-music
