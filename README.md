@@ -1,4 +1,4 @@
-🖥️ retro styled coding with BlitzMAX on Windows
+🖥️ retro styled coding with BlitzMAX on Windows <br>
 🖥️ Amiga MC68000 assembly coding
 ✏️ pixel gfx
 🎵 chip-music
