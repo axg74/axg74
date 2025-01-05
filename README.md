@@ -1,8 +1,8 @@
 ⚡retro styled coding with BlitzMAX on Windows
-⚡Amiga MC68000 assembly coding
-⚡pixel gfx
-⚡chip-music
-⚡mod-music
+🖥️ Amiga MC68000 assembly coding
+✏️ pixel gfx
+🎵 chip-music
+🎵 mod-music
 
 <!--
 **axg74/axg74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
